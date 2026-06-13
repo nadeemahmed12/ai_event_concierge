@@ -87,7 +87,7 @@ GEMINI_API_KEY=your_gemini_api_key
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai_event_concierge.git
+git clone https://github.com/nadeemahmed12/ai_event_concierge
 
 cd ai_event_concierge
 ```
