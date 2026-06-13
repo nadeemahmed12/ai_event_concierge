@@ -141,7 +141,7 @@ npm run dev
 Frontend runs on:
 
 ```text
-http://localhost:5173
+https://ai-event-concierge-rho.vercel.app/
 ```
 
 ---
