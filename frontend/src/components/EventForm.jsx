@@ -19,7 +19,7 @@ function EventForm({ setProposal, fetchHistory }) {
       setLoading(true);
 
       const response = await axios.post(
-        "http://localhost:3000/api/events/generate",
+        "https://ai-event-concierge-jx6m.onrender.com/api/events/generate",
         { description },
       );
 

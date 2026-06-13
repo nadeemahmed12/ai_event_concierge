@@ -117,7 +117,7 @@ npm run dev
 Backend runs on:
 
 ```text
-http://localhost:3000
+https://ai-event-concierge-jx6m.onrender.com
 ```
 
 ---
